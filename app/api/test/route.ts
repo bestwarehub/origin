@@ -1,5 +1,4 @@
 import { dbConnect } from "@/lib/dbConnect";
-import Tag from "@/models/Tag";
 import { NextResponse } from "next/server";
 
 export async function GET(request: Request) {

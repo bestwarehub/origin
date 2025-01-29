@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li>Git Workflow Test</li>
+          <li>Git Workflow Update</li>
 
         </ol>
 
